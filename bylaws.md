@@ -65,13 +65,25 @@ Constitution and By-Laws of the Faculty Senate of the University of Virginia
 			1. [The]{#VII.A.iii.a} Chair of the Faculty Senate shall serve as presiding officer of the Faculty Senate and the Executive Council.
 			2. [The]{#VII.A.iii.b} Chair of the Faculty Senate shall have the power to schedule regular meetings of the Faculty Senate and the power to call special meetings of the Senate.
 			3. [The]{#VII.A.iii.c} Chair of the Faculty Senate shall act as the liaison of the Senate with the President's Cabinet and shall attend its meetings.
-			4. [The]{#VII.A.iii.d} Chair of the Faculty Senate shall become the immediate Past Chair of the Faculty Senate the year following election as Chair.
+			4. [The]{#VII.A.iii.d} Chair of the Faculty Senate shall become the immediate Past Chair of the Faculty Senate the year following the conclusion of their term as Chair.
 
 		4. [Chair-Elect]{#VII.A.iv} of the Faculty Senate
 
 			1. [In]{#VII.A.iv.a} the absence of the Chair, the Chair-Elect of the Faculty Senate shall be the presiding officer of the Faculty Senate and of the Executive Council.
 			2. [The]{#VII.A.iv.b} Chair-Elect of the Faculty Senate shall serve as the officer in training, providing leadership support for the Faculty Senate and for meetings of the Executive Council.
 			3. [The]{#VII.A.iv.c} Chair-Elect shall become Chair of the Faculty Senate the year following election as Chair-Elect.
+
+
+		5. If there is a vacancy in any of the three chair positions, or the Board of Visitors representative, it shall be filled as follows
+			1. Chair-elect: a full election shall be held as per the regular Chair-elect election procedures. The Executive Council shall solicit candidates and set the schedule for this election.
+			2. Chair: if the Chair-elect is willing to start their term early, then they shall immediately become the Chair, and will complete both the remainder of the current term as well as the full term for which they were elected. If the Chair-elect is unable or unwilling to start their term early:
+				1. The Immediate Past Chair, if able and willing, shall become Chair on an interim basis
+				2. If the Immediate Past Chair is unable or unwilling to become the Interim Chair, the Executive Council shall appoint an Interim Chair from the elected At Large members of the Executive Council
+				3. An emergency Faculty Senate meeting shall be called, at the earliest opportunity, to hold elections for Chair. The Executive Council shall solicit candidates and manage this election process.
+			3. Past Chair: nobody will be appointed to become the Past Chair. However, the Executive Council will appoint senators to fulfill the roles and duties of Past Chair, such as chairing the Nominating Committee.
+			4. Board of Visitors representative: if the Board of Visitors representative has already been elected and approved for the following year, then they shall immediately take over as the current Board of Visitors representative, and serve out the remainder of the current term as well as the term for which they were elected. If the representative for the next year is unable or unwilling to assume the duties early, or has not yet been elected and approved:
+				1. The immediate past Board of Visitors representative will become the current representative on an interim basis
+				2. An emergency Faculty Senate meeting shall be called, at the earliest opportunity, to hold elections per the regular Board of Visitors representative election procedures. The Executive Council shall solicit candidates and manage this election process.
 
 	2. [The]{#VII.B} Executive Council of the Faculty Senate
 
@@ -91,7 +103,7 @@ Constitution and By-Laws of the Faculty Senate of the University of Virginia
 		7. [Meetings]{#VII.B.vii} of the Executive Council of the Faculty Senate may be called
 			1. [By]{#VII.B.vii.a} the President of the University
 			2. [By]{#VII.B.vii.b} the Chair of the Faculty Senate
-			3. [On]{#VII.B.vii.c} request made to the Secretary in writing
+			3. [On]{#VII.B.vii.c} request made to the Faculty Senate Chair in writing
 				- by any three members of the Executive Council.
 				- by any ten members, or more, of the Faculty Senate.
 
@@ -171,5 +183,6 @@ Constitution and By-Laws of the Faculty Senate of the University of Virginia
 		13. [Amended by the Senate Oct 30, 2020]{#IX.A.xiii}
 		14. [Amended by the Senate Dec 5, 2022]{#IX.A.xiv}
 		15. [Amended by the Senate May 10, 2024]{#IX.A.xv}
+		15. [Amended by the Senate May 16, 2025]{#IX.A.xvi}
 
 </div>
