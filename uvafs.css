@@ -177,3 +177,22 @@ div.handbookv1 h3 {
   background-color: #ddd;
   padding:2px;
 }
+
+div.apportionmenttable > table > tbody > tr > td:nth-child(2),
+div.apportionmenttable > table > tbody > tr > td:nth-child(4),
+div.apportionmenttable > table > tbody > tr > td:nth-child(6),
+div.apportionmenttable > table > thead > tr > th:nth-child(2),
+div.apportionmenttable > table > thead > tr > th:nth-child(4),
+div.apportionmenttable > table > thead > tr > th:nth-child(6) {
+  border-left:1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
