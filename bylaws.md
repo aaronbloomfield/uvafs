@@ -1,25 +1,33 @@
 Constitution and By-Laws of the Faculty Senate of the University of Virginia
 ============================================================================
 
-<div class="bylaws">
+<style>
+ol { list-style-type: upper-roman; }
+ol ol { list-style-type: upper-alpha; }
+ol ol ol { list-style-type: lower-roman; }
+ol ol ol ol { list-style-type: lower-alpha; }
+ol { text-align:justify }
+</style>
 
 Updated May 16, 2025
 
-1. [Name]{#I}
+&nbsp;
+
+1. **[Name]{#I}**
 
 	The name of this body shall be the Faculty Senate of the University of Virginia.
 
-2. [Purpose]{#II}
+2. **[Purpose]{#II}**
 
 	1. [The]{#II.A} Faculty Senate represents all faculties of the University of Virginia with respect to all academic functions such as the establishment and termination of degree programs, major modifications of requirements for existing degrees, and action affecting all faculties, or more than one faculty, of the University of Virginia.
 
 	2. [Additionally,]{#II.B} the Faculty Senate shall advise the President and the Rector and Board of Visitors concerning educational and related matters affecting the welfare of the University of Virginia.
 
-3. [Eligibility]{#III}
+3. **[Eligibility]{#III}**
 
 	Those persons shall be eligible for election to the Faculty Senate who have been appointed to a salaried faculty position at the University of Virginia at Charlottesville, except for those who are ex-officio members of the Faculty Senate, as enumerated below.
 
-4. [Membership]{#IV}
+4. **[Membership]{#IV}**
 
 	1. [Members]{#IV.A} of the Faculty who hold the following administrative positions shall be ex-officio members with voice and without vote, except in the case of a tie vote, where the President shall cast the deciding vote:
 
@@ -36,7 +44,7 @@ Updated May 16, 2025
 
 	5. [Reapportionment]{#IV.E} of seats on the Faculty Senate shall be accomplished annually.
 
-5. [Elections and Terms]{#V}
+5. **[Elections and Terms]{#V}**
 
 	1. [Elected]{#V.A} members of the Faculty Senate shall serve for a term of four years, commencing on July 1 of the calendar year. Election procedures shall be determined by each of the constituent Faculties, except that
 
@@ -45,11 +53,11 @@ Updated May 16, 2025
 		3. [The]{#V.A.iii} seat of an elected or appointed member shall be deemed vacant if the incumbent is absent from the University of Virginia and non-communicative with the Faculty Senate or its committees, for any cause, for more than one semester. In this event, a replacement shall be elected or appointed to fill out the whole of the unexpired portion of the member's term.
 		4. [Election]{#V.A.iv} or appointment of Senators for each Faculty must be conducted so as to allow notification of results prior to Spring recess and no later than March 15 of each year.
 
-6. [Responsibilities of Faculty Senate Members]{#VI}
+6. **[Responsibilities of Faculty Senate Members]{#VI}**
 
 	The Faculty Senate is a deliberative body which relies upon the collective experience and wisdom of its members. Each Faculty Senate member has a responsibility to engage in the work of the Faculty Senate and its committees, to represent the interests and concerns of colleagues to the Faculty Senate, and to report regularly the proceedings of the Faculty Senate to his or her constituency.
 
-7. [Organization of the Faculty Senate]{#VII}
+7. **[Organization of the Faculty Senate]{#VII}**
 
 	1. [The]{#VII.A} officers of the Faculty Senate shall be
 
@@ -147,7 +155,7 @@ Updated May 16, 2025
 
 			Of the remaining candidates, the two candidates who received the highest number of first- and second-choice votes will be presented as the two alternates, assuming they were ranked by a majority of voting senators. If only two candidates were ranked by a majority of voting senators, the Faculty Senate will initially present a representative and one alternate. The remaining seat will be filled by a runoff using traditional single-choice voting, and the winner of that election will be the second alternate. For the runoff, all remaining candidates will be on the ballot and additional candidates may be nominated.
 
-8. [Meetings of the Faculty Senate]{#VIII}
+8. **[Meetings of the Faculty Senate]{#VIII}**
 
 	1. [Meetings]{#VIII.A} of the Faculty Senate are open to the public.
 	2. [Notice]{#VIII.B} of meetings of the Faculty Senate shall be sent to all members at least one week in advance of the date of the meeting.
@@ -166,7 +174,7 @@ Updated May 16, 2025
 
 		1. [The]{#VIII.I.i} Parliamentarian is a non-Senator Parliamentarian who shall attend the prescribed meetings with neither voice nor vote.
 
-9. [Amendments]{#IX} to the Constitution and By-Laws of the Faculty Senate
+9. **[Amendments]{#IX} to the Constitution and By-Laws of the Faculty Senate**
 
 	1. [Changes]{#IX.A} in the Constitution and By-Laws of the Faculty Senate may be proposed at a regular meeting by any member of the Faculty Senate. To be approved, such changes must be the subject of notice provided to all Senators of the University of Virginia at least two weeks prior to the next meeting of the Faculty Senate. Faculty Senate members are encouraged to ascertain the wishes of their constituencies. Voting on amendments to the constitution and by-laws of the Faculty Senate shall be conducted online as soon as possible following the first meeting of the Faculty Senate occurring two or more weeks after notice of the proposed amendments if given, but such vote must occur within one week of such meeting. The vote shall be open for no less than 5 days. Adoption will require the affirmative vote of 60% of the members of the Faculty Senate.
 
@@ -186,5 +194,3 @@ Updated May 16, 2025
 		14. [Amended by the Faculty Senate Dec 5, 2022]{#IX.A.xiv}
 		15. [Amended by the Faculty Senate May 10, 2024]{#IX.A.xv}
 		15. [Amended by the Faculty Senate May 16, 2025]{#IX.A.xvi}
-
-</div>

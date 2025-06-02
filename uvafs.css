@@ -177,18 +177,3 @@ div.handbookv1 h3 {
   background-color: #ddd;
   padding:2px;
 }
-
-/* formatting the bylaws */
-
-div.bylaws h5 {
-  font-weight: normal;
-  font-style: normal;
-  text-align:justify;
-}
-div.bylaws ol { list-style-type: upper-roman; }
-div.bylaws ol ol { list-style-type: upper-alpha; }
-div.bylaws ol ol ol { list-style-type: lower-roman; }
-div.bylaws ol ol ol ol { list-style-type: lower-alpha; }
-div.bylaws ol ol ol ol ol { list-style-type: decimal; }
-div.bylaws > ol > li > p:first-child { font-weight: bold; }
-div.bylaws > ol { text-align:justify }
